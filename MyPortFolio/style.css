@@ -1,0 +1,15 @@
+h1{
+    color:coral
+
+}
+*{
+    border: solid purple;
+}
+.menu{
+    display:flex;
+    justify-content: center;
+}
+.footer{
+    display:flex;
+    justify-content: flex-end;
+}
